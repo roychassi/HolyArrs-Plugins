@@ -1,10 +1,10 @@
 {
   "id": "language-checker",
   "name": "Language Checker",
-  "description": "Turns down releases whose real audio has no English, so HolyArrs blocklists them for that episode and searches again.",
+  "description": "Turns down releases HolyArrs refuses for a missing audio language, so they are blocklisted for that movie or episode and searched again.",
   "authors": ["roychassi"],
   "repo": "https://github.com/roychassi/language-checker",
-  "tag": "1.0.0",
-  "commit": "1f312cf03a48eb79fe6bbb2743291d7c081a8400",
+  "tag": "1.0.1",
+  "commit": "8a858d389c6b875d7b9a9ec42abab249221dff4d",
   "min_app_version": "1.3.0"
 }
